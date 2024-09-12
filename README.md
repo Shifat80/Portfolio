@@ -63,11 +63,10 @@ To view this project locally:
    git clone https://github.com/Shifat80/Portfolio.git
 )
 
-> Replace `Screenshot 2024-09-12 215433.png` with the actual path to the image in your repository.
 
 ## Installation
 To view this project locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/your_repo_name.git
+   git clone https://github.com/Shifat80/Portfolio.git
