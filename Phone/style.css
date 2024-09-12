@@ -180,6 +180,7 @@ section {
     inset: -10px 80px;
     background: linear-gradient(#F68989, #874356);
     transition: 0.5s;
+    -webkit-animation: animate 4s linear infinite;
     animation: animate 4s linear infinite;
 }
 
@@ -215,6 +216,53 @@ section {
     pointer-events: none;
     z-index: 3;
 }
+.box .content h2 {
+    position: relative;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #fff;
+    padding: 10px 0;
+  }
+  .box .content h2 span {
+    display: block;
+    font-weight: 300;
+    font-size: 13px;
+    padding: 5px 0;
+  }
+  .box .content a {
+    position: relative;
+    background-color: #fff;
+    color: #C65D7B;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-decoration: none;
+    transition: 0.5s;
+  }
+  .box .content a:hover {
+    letter-spacing: 3px;
+  }
+  .box:hover::before {
+    inset: -20px 0px;
+  }
+  .box:hover img {
+    opacity: 0;
+  }
+
+  @-webkit-keyframes animate {
+    0% {
+      transform: rotate(0);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
 
 @keyframes animate {
     0% {
