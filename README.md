@@ -24,7 +24,8 @@ This website serves as a way to display my work and skills to potential employer
 - CSS3 (including Flexbox and Grid)
 
 ## Screenshot
-![Portfolio Screenshot](# Portfolio Website
+![Screenshot 2024-09-12 215433](https://github.com/user-attachments/assets/c5b7b5d1-6230-45db-9e18-d5dfc359a4f0)
+
 
 This is my personal portfolio website built using **HTML** and **CSS**. It showcases my projects, skills, and contact information. The website is fully responsive and designed to look good on all screen sizes.
 
@@ -50,9 +51,9 @@ This website serves as a way to display my work and skills to potential employer
 - CSS3 (including Flexbox and Grid)
 
 ## Screenshot
-![Portfolio Screenshot](Screenshot 2024-09-12 215433.png)
+![Screenshot 2024-09-12 215433](https://github.com/user-attachments/assets/c5b7b5d1-6230-45db-9e18-d5dfc359a4f0)
 
-> Replace `Screenshot 2024-09-12 215433.png` with the actual path to the image in your repository.
+
 
 ## Installation
 To view this project locally:
